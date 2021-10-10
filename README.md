@@ -1,4 +1,4 @@
-### Heyoo my name is Xavier i mainly develop on lua and c# currently working on 2 server projects ( Part Time ) ruuning on the Cfx.re Platform Basecode  
+### Heyoo my name is Xavier i mainly develop on lua and c# currently working on 2 server projects ( Part Time ) runing on the Cfx.re Platform Basecode  
 
 ### Fivem Olimpo Roleplay https://discord.com/invite/gTUfDFABhh
 
