@@ -1,8 +1,10 @@
 ### Heyoo my name is Xavier i mainly develop on lua and c# currently working on 2 server projects ( FULL TIME ) runing on the Cfx.re Platform Basecode  
 
-### Fivem LS Connection https://discord.com/invite/gTUfDFABhh
+### Fivem Anubis RP https://discord.gg/anubisrp
 
 ### Redm Alentexas Roleplay http://discord.com/invite/KPPxAjj4DW
+
+### www.alentexas.pt
 
 <div>
   <a href="https://github.com/krasher023">
