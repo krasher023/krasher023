@@ -1,6 +1,4 @@
-### Heyoo my name is Xavier i mainly develop on lua and c# currently working on 2 server projects ( FULL TIME ) runing on the Cfx.re Platform Basecode  
-
-### Fivem Anubis RP https://discord.gg/anubisrp
+### Heyoo my name is Xavier i mainly develop on lua and c# currently working on 1 server project
 
 ### Redm Alentexas Roleplay http://discord.com/invite/KPPxAjj4DW
 
