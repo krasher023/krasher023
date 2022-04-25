@@ -6,7 +6,7 @@
 
 ### www.alentexas.pt
 
-### Comissions Closed 
+### Commissions closed 
 
 <div>
   <a href="https://github.com/krasher023">
