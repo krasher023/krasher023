@@ -1,8 +1,12 @@
-### Heyoo my name is Xavier i mainly develop on lua and c# currently working on 1 server project
+### Heyoo my name is Xavier i mainly develop on lua and c# currently working on 2 roleplay server projects
 
 ### Redm Alentexas Roleplay http://discord.com/invite/KPPxAjj4DW
 
+### Fivem Imperio Roleplay 
+
 ### www.alentexas.pt
+
+### Comissions Closed 
 
 <div>
   <a href="https://github.com/krasher023">
@@ -24,7 +28,6 @@
   
   <div> 
   
-  <a href="https://instagram.com/xb.1995" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:krasher023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  </div>
