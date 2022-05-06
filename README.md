@@ -2,7 +2,7 @@
 
 ### Redm Alentexas Roleplay http://discord.com/invite/KPPxAjj4DW
 
-### Fivem Imperio Roleplay 
+### Fivem Imperial Roleplay 
 
 ### www.alentexas.pt
 
