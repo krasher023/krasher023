@@ -18,3 +18,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krasher023&show_icons=true&theme=dracula&locale=en&layout=compact" alt="krasher023" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krasher023&show_icons=true&theme=dracula&title_color=9b4646&locale=en" alt="krasher023" /></p>
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.0.0-rc.2
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
