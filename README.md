@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krasher023&label=Profile%20views&color=0e75b6&style=flat" alt="krasher023" /> </p>
 
-- 🔭 I’m currently working on [Alentexas RP](www.alentexas.pt) & [Imperial RP](www.discord.gg/cE2hdKxqug)
+- 🔭 I’m currently working on [Alentexas RP](www.alentexas.pt) 
 
 - 📫 Commissions are Closed
 
